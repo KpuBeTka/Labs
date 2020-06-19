@@ -1,0 +1,10 @@
+1, Izman, Petru, Vasile, Sarmizegetuza, 32, 069235285, romana, 8.3, programarea
+2, Javgurean, Dumitru, Cristian, Cuza-Voda, 25, 069840084, romana, 6.6, contabilitate
+3, Marcu, Lilian, Andrei, Vasile Lupu, 19, 068250817, rusa, 5.6, informatica
+4, Mazur, Dumitru, Stanislav, Academiei, 15, 079465547, romana, 9.0, retele
+5, Minascurta, Vitalie, Maxim, Miron Costin, 14, 069726691, rusa, 8.6, baze de date
+6, Mocanu, Dan, Stanislav, Ginta Latina, 5, 069431111, romana, 7.4, programarea
+7, Murea, Victor, Catalin, Muncesti, 78, 078578700, romana, 9.3, informatica
+8, Nagorneac, Daria, Ion, Alba-Iulia, 6, 060256666, rusa, 8.0, aplicatii web
+9, Nedelco, Emilian, Alexandru, Drumul Viilor, 43, 079274098, romana, 7.2, informatica
+10, Olarita, Adrian, Dumitru, Ismail, 92, 069441138, rusa, 10, baze de date
